@@ -1,4 +1,8 @@
 body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -39,10 +43,6 @@ $boxHeight:400px;
     overflow: hidden;
 }
 
-body{
-  font-family: 'Source Sans Pro', sans-serif;
-
-}
 
 .navs{
   width:$boxWidth;
