@@ -21,6 +21,45 @@ body {
   height: 1.5em;
 }
 
+$boxWidth:400px;
+$boxHeight:400px;
+
+.card2{
+     margin: auto;
+    width: 80%;
+  padding:20px;
+    border: 3px solid green;
+    text-align:center;
+  }
+
+
+
+.topnav {
+
+    overflow: hidden;
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.navs{
+  width:$boxWidth;
+  height:$boxHeight;
+  background-color:grey;
+  padding:20px;
+
+}
+#inner{
+  text-align:left;
+}
+
+.main{
+  display:inline-flex;
+
+}
+
 .containers {
   width: 520px;
   margin: 20px auto;
