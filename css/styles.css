@@ -39,11 +39,11 @@ $boxHeight:400px;
   padding: 20px;
 }
 
-/*#inner{
-  text-align:left;
+#inner {
+  text-align: left;
 }
 
-.main{
+/*.main{
   display:inline-flex;
 
 }
