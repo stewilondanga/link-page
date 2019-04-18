@@ -28,14 +28,11 @@ $boxHeight:400px;
   text-align: center;
 }
 
-/*
-
 .topnav {
-
-    overflow: hidden;
+  overflow: hidden;
 }
 
-
+/*
 .navs{
   width:$boxWidth;
   height:$boxHeight;
