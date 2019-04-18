@@ -32,15 +32,14 @@ $boxHeight:400px;
   overflow: hidden;
 }
 
-/*
-.navs{
-  width:$boxWidth;
-  height:$boxHeight;
-  background-color:grey;
-  padding:20px;
-
+.navs {
+  width: $boxWidth;
+  height: $boxHeight;
+  background-color: grey;
+  padding: 20px;
 }
-#inner{
+
+/*#inner{
   text-align:left;
 }
 
